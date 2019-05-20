@@ -122,19 +122,6 @@ $GOPATH
     |
     |---strings
     |   |---*lib
-
-.
-.
-.
-
-JavaScript
-|---Indonesian-Numeral-Spellers
-    |---src
-        |---main.html
-        |---script.js
-    |--Test(JS)
-        |---*screenshot hasil
-...
 ```
 *beberapa directory/file yang tidak dirasa penting untuk dicantumkan tidak dicantumkan<br>
 *beberapa directory/file yang tidak dirasa penting untuk dijelaskan tidak dijelaskan
