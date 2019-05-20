@@ -54,35 +54,35 @@ Langkah penjalanan program:<br>
 <h2>Contoh request and response</h2>
 Gambar 1: POST dan input valid:<br>
 
-![postvalid](../Test/post_valid.jpg)<br>
+![postvalid](Test/post_valid.jpg)<br>
 
 Gambar 2: POST dan input tidak valid:<br>
 
-![postinvalid](../Test/post_invalid.jpg)<br>
+![postinvalid](Test/post_invalid.jpg)<br>
 
 Gambar 3: GET dan input valid:<br>
 
-![getvalid](../Test/get_valid.jpg)<br>
+![getvalid](Test/get_valid.jpg)<br>
 
 Gambar 4: GET dan input tidak valid:<br>
 
-![getinvalid](../Test/get_invalid.jpg)<br>
+![getinvalid](Test/get_invalid.jpg)<br>
 
 Gambar 5: Penjalanan Number to Text/String valid pada aplikasi Web:<br>
 
-![nttvalid](../Test(JS)/numtotext_valid.jpg)<br>
+![nttvalid](Test(JS)/numtotext_valid.jpg)<br>
 
 Gambar 6: Penjalanan Number to Text/String invalid pada aplikasi Web:<br>
 
-![nttinvalid](../Test(JS)/numtotext_invalid.jpg)<br>
+![nttinvalid](Test(JS)/numtotext_invalid.jpg)<br>
 
 Gambar 7: Penjalanan Text/String to Number valid pada aplikasi Web:<br>
 
-![ttnvalid](../Test(JS)/texttonum_valid.jpg)<br>
+![ttnvalid](Test(JS)/texttonum_valid.jpg)<br>
 
 Gambar 8: Penjalanan Text/String to Number invalid pada aplikasi Web:<br>
 
-![ttninvalid](../Test(JS)/texttonum_invalid.jpg)<br>
+![ttninvalid](Test(JS)/texttonum_invalid.jpg)<br>
 
 <h2>Arsitektur kode Go</h2>
 
